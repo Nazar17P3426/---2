@@ -1,2 +1,2 @@
-# -
-my new malware (translate to see word)
+# コンピューターが暴走する
+C++ GDI trojan by red-wipet
